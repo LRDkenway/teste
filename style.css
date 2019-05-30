@@ -1,0 +1,38 @@
+*{
+	text-align: left;
+}
+
+h2 + p:hover {
+	color: red;
+	background-color: black;
+	text-align: center; 
+	border: 5px solid rgba(255,175,180,0.6)
+	cursor:pointer;
+}
+
+ol {
+	color: blue;
+}
+
+h1 {
+	text-align: center;
+	background-color: lightblue;
+	 
+}
+body {
+	background-image: url(cass.jpg);
+	background-size: cover;
+}
+li {
+	list-style: none;
+	display: inline-black;
+}
+.define: last-child {
+	border: 5px dashed blue
+}
+.active {
+	color: red
+}
+#div1{
+	background: rgba(0,0,255,0.2);
+}

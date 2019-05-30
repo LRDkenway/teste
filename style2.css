@@ -1,0 +1,26 @@
+h1{
+
+color: red;
+}
+
+.newone{
+
+	color: white;
+	text-transform: uppercase;
+	line-height: 10px;
+	font-style: bold;
+	font-family: 'Felipa', cursive;
+
+}
+img {
+
+	float: left;
+}
+
+.boxmodel
+{
+	border: 5px solid red;
+	display: inline-block;
+	padding: 5px 20px 5px 20px;
+	margin: 0px 20px 0px 20px;
+}
